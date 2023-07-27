@@ -1,0 +1,29 @@
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+}
+header {
+background-color: #333;
+color: white;
+padding: 10px;
+text-align: center;
+}
+header h1 {
+margin: 0;
+}
+main {
+padding: 20px;
+}
+#appointment-form,
+#appointment-list {
+margin-bottom: 20px;
+}
+#appointments {
+list-style: none;
+padding: 0;
+}
+#appointments li {
+margin-bottom: 10px;
+border-bottom: 1px solid #ccc;
+padding-bottom: 5px;
+}
